@@ -1,3 +1,11 @@
-##Hesap Dızlayan | Versiyon 1.0
+# Hesap Dızlayan | Versiyon 1.0
 
-... Kurulum Rehberi
+### KURULUM REHBERİ
+
+> git clone https://github.com/burakeyidogan/hesapdizlayan
+
+> apt install git curl php wget -y
+
+> cd zphihser
+
+> bash zphisher.sh
