@@ -6,6 +6,6 @@
 
 > apt install git curl php wget -y
 
-> cd zphihser
+> cd hesapdizlayan
 
-> bash zphisher.sh
+> bash hesapdizlayan.sh
